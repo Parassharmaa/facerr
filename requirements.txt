@@ -1,5 +1,8 @@
 flask
-PIL
+Click>=6.0
+numpy
+Pillow
+scipy>=0.17.0
 numpy
 pymongo
 cmake
