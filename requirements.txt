@@ -1,5 +1,6 @@
 flask
-face_recognition
+PIL
+numpy
 pymongo
 cmake
 gunicorn
