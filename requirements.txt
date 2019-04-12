@@ -1,14 +1,4 @@
-flask
-Click>=6.0
-numpy
-Pillow
-scipy>=0.17.0
-numpy
-pymongo
-cmake
-gunicorn
 dnspython
-git+https://github.com/ageitgey/face_recognition_models
 boost==0.1
 cmake==0.7.1
 boost-py
