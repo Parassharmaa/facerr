@@ -1,5 +1,6 @@
 flask
 face_recognition
 pymongo
+cmake
 gunicorn
 dnspython
