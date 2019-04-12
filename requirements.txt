@@ -8,3 +8,4 @@ pymongo
 cmake
 gunicorn
 dnspython
+git+https://github.com/ageitgey/face_recognition_models
